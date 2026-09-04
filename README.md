@@ -1,508 +1,315 @@
-# `> whoami`
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;Building+ML+%26+AI+systems+from+scratch;Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+Transformers+%E2%86%92+RAG" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:00ff88&height=280&section=header&text=ATHAR%20HUSSAIN&fontSize=70&fontColor=00ff88&fontAlignY=35&animation=fadeIn&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20AI%20Engineering&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ATHAR HUSSAIN                                               │
-│                                                              │
-│  B.Tech CSE  •  Machine Learning  •  Deep Learning  •  AI   │
-│                                                              │
-│  I don't just want to use models.                           │
-│  I want to understand them, build them, and ship them.       │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=root%40athar%3A~%23+whoami;%3E+Aspiring+ML+%2F+AI+Engineer;%3E+I+don't+use+black+boxes.+I+open+them.;%3E+Building+RAG+%2B+LLM+systems+from+scratch;%3E+sudo+train+--model%3Dme+--epochs%3D%E2%88%9E" alt="Typing SVG" />
 
-I'm a **Computer Science Engineering student** building my way toward becoming a **Data Scientist / Machine Learning Engineer**.
+<br/>
 
-My journey started with data and classical machine learning, moved into deep learning and computer vision, then into NLP and Transformers — and now I'm building applications around **RAG, embeddings, vector search and LLMs**.
+![Profile Views](https://komarev.com/ghpvc/?username=ATHAR-HUSSAIN-2910&style=for-the-badge&color=00ff88&label=NEURAL+VISITORS)
+![GitHub followers](https://img.shields.io/github/followers/ATHAR-HUSSAIN-2910?style=for-the-badge&color=1a1a2e&labelColor=000000&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00ff88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/athar-hussain-datascience/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://athar-hussain-2910.github.io/)
 
-I care about one thing above everything else:
-
-> **Understanding what's happening underneath the abstraction.**
+</div>
 
 ---
 
-# 🧠 The Journey
+<div align="center">
 
-```text
-                    MY LEARNING GRAPH
+```
+██╗    ██╗██╗  ██╗ ██████╗  █████╗ ███╗   ███╗██╗
+██║    ██║██║  ██║██╔═══██╗██╔══██╗████╗ ████║██║
+██║ █╗ ██║███████║██║   ██║███████║██╔████╔██║██║
+██║███╗██║██╔══██║██║   ██║██╔══██║██║╚██╔╝██║██║
+╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
+```
 
-      Python
-        │
-        ▼
-  NumPy • Pandas
-        │
-        ▼
- Statistics & EDA
-        │
-        ▼
- ┌─────────────────┐
- │ MACHINE LEARNING│
- └────────┬────────┘
-          │
-          ├── Regression
-          ├── Classification
-          ├── Trees & Ensembles
-          ├── XGBoost
-          ├── Clustering
-          └── Model Explainability
-                    │
-                    ▼
-          ┌─────────────────┐
-          │ DEEP LEARNING   │
-          └────────┬────────┘
-                   │
-                   ├── ANN
-                   ├── CNN
-                   ├── RNN Fundamentals
-                   └── PyTorch
-                    │
-                    ▼
-             ┌─────────────┐
-             │ NLP         │
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │ TRANSFORMERS│
-             └──────┬──────┘
-                    │
-                    ├── Attention
-                    ├── Self-Attention
-                    ├── BERT
-                    └── Hugging Face
-                    │
-                    ▼
-          ┌──────────────────┐
-          │ GENERATIVE AI    │
-          └────────┬─────────┘
-                   │
-                   ├── Embeddings
-                   ├── Vector Search
-                   ├── FAISS
-                   ├── RAG
-                   └── LLM Applications
+</div>
+
+```yaml
+┌─────────────────────────────────────────────────────────────────┐
+│  neofetch --engineer                                            │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                   │
+│      .------.        os........: Human.exe (compiling since '02)│
+│     /  ML   \        host......: B.Tech CSE                     │
+│    |  BRAIN  |       kernel....: Curiosity 5.0                  │
+│     \  ~~~~ /        uptime....: 24/7 learning loop              │
+│      '------'        shell.....: /bin/python3                   │
+│    /|  ||  |\        stack.....: PyTorch, FAISS, Transformers   │
+│   / |  ||  | \       theme.....: Understand > Memorize          │
+│  /__|__||__|__\      terminal..: black background, green text   │
+│                       cpu.......: 100% on "why does this work?"  │
+│                       memory....: leaking curiosity, not RAM     │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# ⚙️ What I Build
+## `> cat mission_statement.txt`
 
-I like projects where the goal isn't simply:
+<div align="center">
 
-`load → train → predict`
+### I don't just want to **use** models.
+### I want to **understand** them, **build** them, and **ship** them.
 
-but rather:
+</div>
 
-```text
-        DATA
-          │
-          ▼
-    PREPROCESSING
-          │
-          ▼
-     REPRESENTATION
-          │
-          ▼
-       MODEL
-          │
-          ▼
-     EVALUATION
-          │
-          ▼
-      EXPLANATION
-          │
-          ▼
-      APPLICATION
-          │
-          ▼
-       DEPLOYMENT
-```
+My path went `Python → Classical ML → Deep Learning → Computer Vision → NLP → Transformers`, and now I live in **RAG, embeddings, vector search, and LLM applications**. One rule guides everything I build:
 
-That's the direction I'm taking with my projects.
+> **If I can't explain what's happening underneath the abstraction, I haven't learned it yet.**
 
 ---
 
-# 🔬 Selected Projects
-
-## 🤖 ML RAG Assistant
-
-> **Ask questions. Retrieve knowledge. Generate grounded answers.**
-
-A Retrieval-Augmented Generation application built around a custom Machine Learning knowledge base.
+## `> ./run_learning_graph.sh`
 
 ```text
-User Question
-      │
-      ▼
-Sentence Transformer
-      │
-      ▼
-   Embedding
-      │
-      ▼
-    FAISS
-      │
-      ▼
-Relevant Documents
-      │
-      ▼
-     Groq LLM
-      │
-      ▼
-Grounded Response
+                    ⚡ THE NEURAL PATHWAY ⚡
+
+      Python  ──▶  NumPy / Pandas  ──▶  Statistics & EDA
+                                              │
+                                              ▼
+                                   ┌─────────────────────┐
+                                   │  MACHINE LEARNING    │  🌳
+                                   └──────────┬───────────┘
+                       Regression ─ Classification ─ Trees ─ XGBoost ─ Clustering ─ SHAP
+                                              │
+                                              ▼
+                                   ┌─────────────────────┐
+                                   │   DEEP LEARNING       │  🔥
+                                   └──────────┬───────────┘
+                                  ANN ─ CNN ─ RNN ─ PyTorch
+                                              │
+                                              ▼
+                                   ┌─────────────────────┐
+                                   │        NLP            │  🔤
+                                   └──────────┬───────────┘
+                                              │
+                                              ▼
+                                   ┌─────────────────────┐
+                                   │    TRANSFORMERS       │  🧠
+                                   └──────────┬───────────┘
+                          Attention ─ Self-Attention ─ BERT ─ HuggingFace
+                                              │
+                                              ▼
+                                   ┌─────────────────────┐
+                                   │    GENERATIVE AI      │  🚀
+                                   └──────────┬───────────┘
+                          Embeddings ─ FAISS ─ Vector Search ─ RAG ─ LLM Apps
+                                              │
+                                              ▼
+                                        [ YOU ARE HERE ]
 ```
 
-### Built with
+---
+
+## `> ps aux | grep "currently_building"`
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ML RAG Assistant
+**Ask questions. Retrieve knowledge. Generate grounded answers.**
+
+```
+Query ──▶ SentenceTransformer ──▶ Embedding
+      ──▶ FAISS ──▶ Top-K Docs
+      ──▶ Groq LLM ──▶ Grounded Answer
+```
 
 `Python` `Sentence Transformers` `FAISS` `Groq` `Streamlit`
 
-### What I implemented
+- Semantic search + dense vector embeddings
+- FAISS similarity search
+- Conversation-aware follow-ups
+- Custom knowledge-base ingestion
 
-* Semantic search
-* Dense vector embeddings
-* FAISS similarity search
-* Context retrieval
-* LLM-powered answer generation
-* Conversation-aware follow-up questions
-* Custom knowledge-base processing
+</td>
+<td width="50%" valign="top">
 
-**→ Explore the project in my repositories**
+### 🧠 Diabetes Prediction — PyTorch + Optuna
+**A full deep-learning pipeline, done properly.**
+
+```
+Data ─▶ Scale ─▶ ANN ─▶ BCEWithLogitsLoss
+     ─▶ Backprop ─▶ Optuna Search ─▶ ROC-AUC
+```
+
+`PyTorch` `Optuna` `ROC-AUC` `Early Stopping`
+
+- No data leakage in scaling
+- Hyperparameter optimization via Optuna
+- Threshold-tuned, reproducible experiments
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ CIFAR-10 CNN
+Image classification, engineered — not just trained.
+
+`CNN` `PyTorch` `Torchvision` `Augmentation` `Optuna`
+
+- Train/val/test separation done right
+- Training-only augmentation
+- CPU-compatible, reproducible runs
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Customer Churn Prediction
+IBM Telco dataset — the question wasn't accuracy, it was **why**.
+
+`EDA` `XGBoost` `SHAP` `ROC-AUC`
+
+- Which customers leave, and why
+- Feature engineering with explainability
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+End-to-end regression workflow.
+
+`EDA → Preprocessing → Feature Eng → Regression → Eval`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚢 Titanic Survival Prediction
+Logistic Regression, evaluation-first.
+
+**Test ROC-AUC: `0.8694`**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🗄️ Customer Order SQL Project
+**85 hand-written SQL queries** on MS SQL Server — `JOINs` `CTEs` `Subqueries` `Aggregations` `Window Functions`
+
+</div>
 
 ---
 
-## 🧠 Diabetes Prediction — PyTorch + Optuna
+## `> top --sort=stack`
 
-A deep learning classification system built using an Artificial Neural Network.
+<div align="center">
 
-### Engineering focus
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00ff88)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff88)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff88)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff88)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00ff88)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00ff88)
+![SQL](https://img.shields.io/badge/-SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff88)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00ff88)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00ff88)
+![VSCode](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff88)
 
-* PyTorch training pipeline
-* Train / validation / test separation
-* Standardization without data leakage
-* `BCEWithLogitsLoss`
-* Early stopping
-* Hyperparameter optimization
-* Optuna
-* ROC-AUC evaluation
-* Threshold optimization
-* Reproducible experiments
+</div>
 
-### Why this project matters
+---
 
-I didn't want to simply train an ANN.
+## `> git log --stats --graph`
 
-I focused on understanding:
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ATHAR-HUSSAIN-2910&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHAR-HUSSAIN-2910&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHAR-HUSSAIN-2910&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ATHAR-HUSSAIN-2910&theme=matrix&no-frame=true&margin-w=10&row=2&column=4" width="48%"/>
+
+</div>
+
+<div align="center">
+
+### `> ./contribution_snake.sh --eat=commits`
+
+<img src="https://raw.githubusercontent.com/ATHAR-HUSSAIN-2910/ATHAR-HUSSAIN-2910/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ Snake animation requires a one-time GitHub Actions workflow — ask if you want the exact YAML to wire this up.</sub>
+
+</div>
+
+---
+
+## `> while(true) { learn(); build(); ship(); }`
 
 ```text
-Data
- ↓
-Scaling
- ↓
-Model
- ↓
-Loss
- ↓
-Backpropagation
- ↓
-Optimization
- ↓
-Validation
- ↓
-Hyperparameter Search
- ↓
-Final Evaluation
+        CONCEPT ──▶ INTUITION ──▶ MATHEMATICS ──▶ FROM-SCRATCH CODE
+                                                          │
+                                                          ▼
+                              EXPLANATION ◀── PROJECT ◀── LIBRARY
+```
+
+I refuse to let `model.fit(X, y)` stay a black box. I want to know what happens **before, during, and after** that single line.
+
+<div align="center">
+
+```diff
++ Understand   > Memorize
++ Build        > Watch
++ Explain      > Copy
++ Experiment   > Assume
++ Ship         > Perfect
+```
+
+</div>
+
+---
+
+## `> roadmap --current-mission`
+
+```text
+┌───────────────────────────────────────────────────┐
+│  Strengthen Python                                 │
+│        ↓                                           │
+│  Master OOP fundamentals                           │
+│        ↓                                           │
+│  Build stronger ML systems                         │
+│        ↓                                           │
+│  Ship production-grade RAG applications             │
+│        ↓                                           │
+│  Learn deployment & MLOps                          │
+│        ↓                                           │
+│  Become a stronger ML / AI Engineer  🚀             │
+└───────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🖼️ CIFAR-10 CNN
+<div align="center">
 
-A portfolio-focused image classification project using PyTorch.
+## `> curl -s "quote.api/random?dev=true"`
 
-### Focus
-
-`CNN` `PyTorch` `Torchvision` `Data Augmentation` `Optuna`
-
-The project includes:
-
-* Training / validation / test separation
-* Training-only augmentation
-* CNN architecture
-* Multiclass classification
-* CrossEntropyLoss
-* Hyperparameter optimization
-* Reproducible experiments
-* CPU-compatible training
+> *"The goal is not to know every tool.*
+> *The goal is to become someone who can build."*
 
 ---
 
-## 📉 Customer Churn Prediction
+## `> ./connect.sh`
 
-Machine learning classification project using the IBM Telco Customer Churn dataset.
+<a href="https://github.com/ATHAR-HUSSAIN-2910"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88"/></a>
+<a href="https://www.linkedin.com/in/athar-hussain-datascience/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88"/></a>
+<a href="https://athar-hussain-2910.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88"/></a>
 
-### Focus
+<br/><br/>
 
-`EDA` `Feature Engineering` `Scikit-learn` `XGBoost` `ROC-AUC`
+⭐ **Star my repos — the journey is documented in code, not just words.**
 
-The goal wasn't only to maximize accuracy.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a1a2e,100:000000&height=150&section=footer" width="100%"/>
 
-I focused on understanding:
-
-**Which customers are likely to leave — and why?**
-
----
-
-## 🏠 House Price Prediction
-
-Regression project focused on building an end-to-end machine learning workflow.
-
-### Focus
-
-`EDA` → `Preprocessing` → `Feature Engineering` → `Regression` → `Evaluation`
-
----
-
-## 🚢 Titanic Survival Prediction
-
-A classification project using Logistic Regression with a focus on preprocessing, feature engineering and evaluation.
-
-**Test ROC-AUC:** `0.8694`
-
----
-
-## 🗄️ Customer Order SQL Project
-
-A Microsoft SQL Server project containing **85 SQL queries** designed around customer and order analysis.
-
-### Concepts
-
-`JOINs` `CTEs` `Subqueries` `Aggregations` `Window Functions`
-
----
-
-# 🛠️ My Stack
-
-### Languages
-
-```text
-Python        ████████████████████
-SQL           ███████████████░░░░░
-```
-
-### Machine Learning
-
-```text
-NumPy
-Pandas
-Scikit-learn
-XGBoost
-SHAP
-Optuna
-```
-
-### Deep Learning
-
-```text
-PyTorch
-Torchvision
-ANN
-CNN
-RNN fundamentals
-```
-
-### NLP / GenAI
-
-```text
-Transformers
-BERT
-Hugging Face
-Embeddings
-FAISS
-RAG
-LLM Applications
-```
-
-### Development
-
-```text
-Git
-GitHub
-VS Code
-Jupyter
-Streamlit
-FastAPI
-```
-
----
-
-# 🧪 How I Learn
-
-I don't want libraries to become a black box.
-
-My preferred learning loop is:
-
-```text
-        CONCEPT
-           ↓
-       INTUITION
-           ↓
-       MATHEMATICS
-           ↓
-     FROM-SCRATCH CODE
-           ↓
-        LIBRARY
-           ↓
-        PROJECT
-           ↓
-       EXPLANATION
-```
-
-For example:
-
-I don't want to know only:
-
-`model.fit(X, y)`
-
-I want to understand what happens **before, during and after** that line.
-
----
-
-# 🎯 Current Mission
-
-```text
-┌─────────────────────────────────────────────┐
-│              CURRENT MISSION                │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Strengthen Python                         │
-│       ↓                                     │
-│  Improve problem solving                   │
-│       ↓                                     │
-│  Master OOP fundamentals                   │
-│       ↓                                     │
-│  Build stronger ML systems                 │
-│       ↓                                     │
-│  Build production-style RAG applications   │
-│       ↓                                     │
-│  Learn deployment & MLOps                  │
-│       ↓                                     │
-│  Become a stronger ML / AI Engineer        │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# 📌 What I'm Currently Exploring
-
-* 🐍 Python programming & problem solving
-* 🧩 Object-Oriented Programming
-* 🤖 Machine Learning Engineering
-* 🧠 Deep Learning with PyTorch
-* 🔤 NLP & Transformers
-* 🔎 Retrieval-Augmented Generation
-* 🗃️ Vector databases & semantic search
-* 🧪 ML experimentation & evaluation
-* 🚀 Model / application deployment
-* ⚙️ MLOps fundamentals
-
----
-
-# 💭 Engineering Philosophy
-
-### `Understand > Memorize`
-
-### `Build > Watch`
-
-### `Explain > Copy`
-
-### `Experiment > Assume`
-
-### `Ship > Perfect`
-
-I'm using AI tools as part of my development workflow, but my goal is not to outsource understanding.
-
-**If I use a piece of code, I want to be able to explain what it does, why it works, and what could break.**
-
----
-
-# 📈 The Direction
-
-I'm not trying to collect technologies.
-
-I'm trying to build this:
-
-```text
-                 ┌──────────────────┐
-                 │   DATA SCIENCE   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ MACHINE LEARNING │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ DEEP LEARNING   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     NLP / AI     │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   TRANSFORMERS   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   LLM + RAG      │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │  AI ENGINEERING  │
-                 └──────────────────┘
-```
-
-**The end goal isn't another certificate.**
-
-It's the ability to take an idea from:
-
-`problem → data → model → system → deployment`
-
-and actually make it work.
-
----
-
-# 🌐 Connect
-
-<p align="left">
-<a href="https://github.com/ATHAR-HUSSAIN-2910">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/athar-hussain-datascience/">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://athar-hussain-2910.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-
----
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "The goal is not to know every tool.                  ║
-║    The goal is to become someone who can build."        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-⭐ **Explore my repositories to see the journey in code.**
+</div>
