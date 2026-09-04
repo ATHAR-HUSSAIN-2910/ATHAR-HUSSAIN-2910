@@ -1,138 +1,236 @@
-# Hi, I'm Athar Hussain 👋
+# `> whoami`
 
-### Aspiring Data Scientist & Machine Learning Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;Building+ML+%26+AI+systems+from+scratch;Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+Transformers+%E2%86%92+RAG" alt="Typing SVG" />
 
-I'm a **B.Tech Computer Science Engineering student** focused on building practical machine learning and AI applications.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ATHAR HUSSAIN                                               │
+│                                                              │
+│  B.Tech CSE  •  Machine Learning  •  Deep Learning  •  AI   │
+│                                                              │
+│  I don't just want to use models.                           │
+│  I want to understand them, build them, and ship them.       │
+└──────────────────────────────────────────────────────────────┘
+```
 
-My learning journey has progressed from **Data Analysis → Machine Learning → Deep Learning → NLP → Transformers → RAG**, with a strong focus on understanding the concepts behind the code and turning them into real projects.
+I'm a **Computer Science Engineering student** building my way toward becoming a **Data Scientist / Machine Learning Engineer**.
 
----
+My journey started with data and classical machine learning, moved into deep learning and computer vision, then into NLP and Transformers — and now I'm building applications around **RAG, embeddings, vector search and LLMs**.
 
-## 🚀 About Me
+I care about one thing above everything else:
 
-* 🎓 B.Tech CSE Student
-* 🤖 Focused on **Machine Learning, Deep Learning & Generative AI**
-* 🧠 Currently strengthening **Python, problem-solving and ML engineering fundamentals**
-* 🔬 Interested in **NLP, Transformers, RAG and LLM applications**
-* 🛠️ I enjoy building projects that combine **machine learning with real-world applications**
-* 💼 Currently looking for **Data Science / Machine Learning internships and fresher opportunities**
-
----
-
-## 🧠 Technical Skills
-
-### Programming
-
-* Python
-* SQL
-
-### Data Science & Machine Learning
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Tuning
-* Cross-Validation
-* SHAP / Model Explainability
-
-### Machine Learning
-
-* Linear Regression
-* Logistic Regression
-* Decision Trees
-* Random Forest
-* Bagging
-* Boosting
-* XGBoost
-* K-Means Clustering
-
-### Deep Learning
-
-* PyTorch
-* Artificial Neural Networks
-* CNNs
-* RNN Fundamentals
-* Optimization & Regularization
-* Optuna
-
-### NLP & Generative AI
-
-* NLP Fundamentals
-* Transformers
-* BERT
-* Attention & Self-Attention
-* Hugging Face
-* Embeddings
-* Retrieval-Augmented Generation (RAG)
-* FAISS
-* LLM Applications
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
-* Streamlit
-* FastAPI
+> **Understanding what's happening underneath the abstraction.**
 
 ---
 
-## 🔥 Featured Projects
+# 🧠 The Journey
 
-### 🤖 Machine Learning RAG Assistant
+```text
+                    MY LEARNING GRAPH
 
-A Retrieval-Augmented Generation application for answering Machine Learning questions using a custom knowledge base.
+      Python
+        │
+        ▼
+  NumPy • Pandas
+        │
+        ▼
+ Statistics & EDA
+        │
+        ▼
+ ┌─────────────────┐
+ │ MACHINE LEARNING│
+ └────────┬────────┘
+          │
+          ├── Regression
+          ├── Classification
+          ├── Trees & Ensembles
+          ├── XGBoost
+          ├── Clustering
+          └── Model Explainability
+                    │
+                    ▼
+          ┌─────────────────┐
+          │ DEEP LEARNING   │
+          └────────┬────────┘
+                   │
+                   ├── ANN
+                   ├── CNN
+                   ├── RNN Fundamentals
+                   └── PyTorch
+                    │
+                    ▼
+             ┌─────────────┐
+             │ NLP         │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │ TRANSFORMERS│
+             └──────┬──────┘
+                    │
+                    ├── Attention
+                    ├── Self-Attention
+                    ├── BERT
+                    └── Hugging Face
+                    │
+                    ▼
+          ┌──────────────────┐
+          │ GENERATIVE AI    │
+          └────────┬─────────┘
+                   │
+                   ├── Embeddings
+                   ├── Vector Search
+                   ├── FAISS
+                   ├── RAG
+                   └── LLM Applications
+```
 
-**Tech:** Python, Sentence Transformers, FAISS, Groq LLM, Streamlit
+---
 
-**Key Features:**
+# ⚙️ What I Build
+
+I like projects where the goal isn't simply:
+
+`load → train → predict`
+
+but rather:
+
+```text
+        DATA
+          │
+          ▼
+    PREPROCESSING
+          │
+          ▼
+     REPRESENTATION
+          │
+          ▼
+       MODEL
+          │
+          ▼
+     EVALUATION
+          │
+          ▼
+      EXPLANATION
+          │
+          ▼
+      APPLICATION
+          │
+          ▼
+       DEPLOYMENT
+```
+
+That's the direction I'm taking with my projects.
+
+---
+
+# 🔬 Selected Projects
+
+## 🤖 ML RAG Assistant
+
+> **Ask questions. Retrieve knowledge. Generate grounded answers.**
+
+A Retrieval-Augmented Generation application built around a custom Machine Learning knowledge base.
+
+```text
+User Question
+      │
+      ▼
+Sentence Transformer
+      │
+      ▼
+   Embedding
+      │
+      ▼
+    FAISS
+      │
+      ▼
+Relevant Documents
+      │
+      ▼
+     Groq LLM
+      │
+      ▼
+Grounded Response
+```
+
+### Built with
+
+`Python` `Sentence Transformers` `FAISS` `Groq` `Streamlit`
+
+### What I implemented
 
 * Semantic search
-* Vector similarity retrieval
-* Sentence-transformer embeddings
-* FAISS vector database
-* Context-grounded LLM responses
+* Dense vector embeddings
+* FAISS similarity search
+* Context retrieval
+* LLM-powered answer generation
 * Conversation-aware follow-up questions
+* Custom knowledge-base processing
 
-🔗 [View Project](https://github.com/ATHAR-HUSSAIN-2910)
+**→ Explore the project in my repositories**
 
 ---
 
-### 🩺 Diabetes Prediction using PyTorch & Optuna
+## 🧠 Diabetes Prediction — PyTorch + Optuna
 
-A deep learning classification project using an Artificial Neural Network to predict diabetes risk.
+A deep learning classification system built using an Artificial Neural Network.
 
-**Tech:** Python, PyTorch, Optuna, Scikit-learn
+### Engineering focus
 
-**Highlights:**
-
-* Reproducible training pipeline
-* Train/validation/test separation
-* Feature scaling
-* BCEWithLogitsLoss
+* PyTorch training pipeline
+* Train / validation / test separation
+* Standardization without data leakage
+* `BCEWithLogitsLoss`
 * Early stopping
-* Hyperparameter optimization with Optuna
-* ROC-AUC based evaluation
+* Hyperparameter optimization
+* Optuna
+* ROC-AUC evaluation
 * Threshold optimization
+* Reproducible experiments
+
+### Why this project matters
+
+I didn't want to simply train an ANN.
+
+I focused on understanding:
+
+```text
+Data
+ ↓
+Scaling
+ ↓
+Model
+ ↓
+Loss
+ ↓
+Backpropagation
+ ↓
+Optimization
+ ↓
+Validation
+ ↓
+Hyperparameter Search
+ ↓
+Final Evaluation
+```
 
 ---
 
-### 🖼️ CIFAR-10 Image Classification
+## 🖼️ CIFAR-10 CNN
 
-A portfolio-focused CNN project built with PyTorch for multiclass image classification.
+A portfolio-focused image classification project using PyTorch.
 
-**Tech:** Python, PyTorch, Torchvision, Optuna
+### Focus
 
-**Highlights:**
+`CNN` `PyTorch` `Torchvision` `Data Augmentation` `Optuna`
 
+The project includes:
+
+* Training / validation / test separation
+* Training-only augmentation
 * CNN architecture
-* Data augmentation
-* Train/validation/test split
+* Multiclass classification
 * CrossEntropyLoss
 * Hyperparameter optimization
 * Reproducible experiments
@@ -140,138 +238,271 @@ A portfolio-focused CNN project built with PyTorch for multiclass image classifi
 
 ---
 
-### 📉 Customer Churn Prediction
+## 📉 Customer Churn Prediction
 
-A machine learning project predicting customer churn using the IBM Telco Customer Churn dataset.
+Machine learning classification project using the IBM Telco Customer Churn dataset.
 
-**Tech:** Python, Pandas, Scikit-learn, XGBoost
+### Focus
 
-**Highlights:**
+`EDA` `Feature Engineering` `Scikit-learn` `XGBoost` `ROC-AUC`
 
-* Data preprocessing
-* Feature engineering
-* Classification models
-* Hyperparameter tuning
-* ROC-AUC evaluation
-* Model interpretation
+The goal wasn't only to maximize accuracy.
 
----
+I focused on understanding:
 
-### 🏠 House Price Prediction
-
-A supervised machine learning project for predicting house prices using regression techniques.
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn
-
-**Highlights:**
-
-* Exploratory data analysis
-* Feature preprocessing
-* Regression modeling
-* Model evaluation
-* Feature engineering
+**Which customers are likely to leave — and why?**
 
 ---
 
-### 🛳️ Titanic Survival Prediction
+## 🏠 House Price Prediction
 
-A binary classification project predicting passenger survival using Logistic Regression.
+Regression project focused on building an end-to-end machine learning workflow.
 
-**Tech:** Python, Pandas, Scikit-learn
+### Focus
 
-**Highlights:**
-
-* Data preprocessing
-* Feature engineering
-* Classification
-* ROC-AUC evaluation
-* Model comparison
+`EDA` → `Preprocessing` → `Feature Engineering` → `Regression` → `Evaluation`
 
 ---
 
-### 🗄️ Customer Order SQL Project
+## 🚢 Titanic Survival Prediction
 
-A SQL project focused on solving business-oriented problems using a customer and order database.
+A classification project using Logistic Regression with a focus on preprocessing, feature engineering and evaluation.
 
-**Tech:** Microsoft SQL Server
-
-**Highlights:**
-
-* Complex SQL queries
-* Joins
-* Aggregations
-* Subqueries
-* CTEs
-* Window functions
-* Business problem solving
+**Test ROC-AUC:** `0.8694`
 
 ---
 
-## 📚 My Learning Journey
+## 🗄️ Customer Order SQL Project
+
+A Microsoft SQL Server project containing **85 SQL queries** designed around customer and order analysis.
+
+### Concepts
+
+`JOINs` `CTEs` `Subqueries` `Aggregations` `Window Functions`
+
+---
+
+# 🛠️ My Stack
+
+### Languages
 
 ```text
-Python
-   ↓
-NumPy & Pandas
-   ↓
-Statistics & Data Analysis
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-NLP
-   ↓
+Python        ████████████████████
+SQL           ███████████████░░░░░
+```
+
+### Machine Learning
+
+```text
+NumPy
+Pandas
+Scikit-learn
+XGBoost
+SHAP
+Optuna
+```
+
+### Deep Learning
+
+```text
+PyTorch
+Torchvision
+ANN
+CNN
+RNN fundamentals
+```
+
+### NLP / GenAI
+
+```text
 Transformers
-   ↓
+BERT
 Hugging Face
-   ↓
-RAG & LLM Applications
-   ↓
-ML / AI Engineering
+Embeddings
+FAISS
+RAG
+LLM Applications
+```
+
+### Development
+
+```text
+Git
+GitHub
+VS Code
+Jupyter
+Streamlit
+FastAPI
 ```
 
 ---
 
-## 🎯 Current Focus
+# 🧪 How I Learn
 
-I'm currently focusing on becoming stronger at the engineering side of AI:
+I don't want libraries to become a black box.
 
-* Writing better Python
-* Problem solving & programming logic
-* Object-Oriented Programming
-* Building production-style ML applications
-* RAG system design
-* LLM application development
-* Model deployment
-* MLOps fundamentals
+My preferred learning loop is:
 
----
+```text
+        CONCEPT
+           ↓
+       INTUITION
+           ↓
+       MATHEMATICS
+           ↓
+     FROM-SCRATCH CODE
+           ↓
+        LIBRARY
+           ↓
+        PROJECT
+           ↓
+       EXPLANATION
+```
 
-## 📊 What I Believe In
+For example:
 
-> **Don't just use the model. Understand the model.**
+I don't want to know only:
 
-I focus on understanding the intuition, mathematics and implementation behind machine learning and deep learning concepts rather than treating libraries as black boxes.
+`model.fit(X, y)`
 
----
-
-## 🌐 Connect With Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/athar-hussain-datascience/)
-* 🌐 [Portfolio](https://athar-hussain-2910.github.io/)
-* 🐙 [GitHub](https://github.com/ATHAR-HUSSAIN-2910)
-
----
-
-## ⚡ A Little More About My Journey
-
-I started with data analysis and gradually moved deeper into machine learning and artificial intelligence.
-
-Today, I'm exploring how **machine learning models, deep learning architectures, transformers, retrieval systems and LLMs** can be combined to build useful AI applications.
-
-My goal is to grow into an engineer who can go beyond training models — someone who can **understand, build, deploy and maintain complete ML/AI systems.**
+I want to understand what happens **before, during and after** that line.
 
 ---
 
-⭐ If you find any of my projects interesting, feel free to explore the repositories.
+# 🎯 Current Mission
+
+```text
+┌─────────────────────────────────────────────┐
+│              CURRENT MISSION                │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Strengthen Python                         │
+│       ↓                                     │
+│  Improve problem solving                   │
+│       ↓                                     │
+│  Master OOP fundamentals                   │
+│       ↓                                     │
+│  Build stronger ML systems                 │
+│       ↓                                     │
+│  Build production-style RAG applications   │
+│       ↓                                     │
+│  Learn deployment & MLOps                  │
+│       ↓                                     │
+│  Become a stronger ML / AI Engineer        │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+# 📌 What I'm Currently Exploring
+
+* 🐍 Python programming & problem solving
+* 🧩 Object-Oriented Programming
+* 🤖 Machine Learning Engineering
+* 🧠 Deep Learning with PyTorch
+* 🔤 NLP & Transformers
+* 🔎 Retrieval-Augmented Generation
+* 🗃️ Vector databases & semantic search
+* 🧪 ML experimentation & evaluation
+* 🚀 Model / application deployment
+* ⚙️ MLOps fundamentals
+
+---
+
+# 💭 Engineering Philosophy
+
+### `Understand > Memorize`
+
+### `Build > Watch`
+
+### `Explain > Copy`
+
+### `Experiment > Assume`
+
+### `Ship > Perfect`
+
+I'm using AI tools as part of my development workflow, but my goal is not to outsource understanding.
+
+**If I use a piece of code, I want to be able to explain what it does, why it works, and what could break.**
+
+---
+
+# 📈 The Direction
+
+I'm not trying to collect technologies.
+
+I'm trying to build this:
+
+```text
+                 ┌──────────────────┐
+                 │   DATA SCIENCE   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ MACHINE LEARNING │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ DEEP LEARNING   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │     NLP / AI     │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   TRANSFORMERS   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   LLM + RAG      │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │  AI ENGINEERING  │
+                 └──────────────────┘
+```
+
+**The end goal isn't another certificate.**
+
+It's the ability to take an idea from:
+
+`problem → data → model → system → deployment`
+
+and actually make it work.
+
+---
+
+# 🌐 Connect
+
+<p align="left">
+<a href="https://github.com/ATHAR-HUSSAIN-2910">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/athar-hussain-datascience/">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://athar-hussain-2910.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+---
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "The goal is not to know every tool.                  ║
+║    The goal is to become someone who can build."        ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+⭐ **Explore my repositories to see the journey in code.**
